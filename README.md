@@ -4,7 +4,7 @@
 
 Systems Analysis and Development student at Unifavip Wyden, graduating July 2026, based in Porto with hands-on experience in data analysis, business intelligence, and backend development. With strong analytical thinking and a results-oriented approach.
 
-### 🤖 Skills and Technologies
+### Skills and Technologies
 
 <img 
     align="left" 
