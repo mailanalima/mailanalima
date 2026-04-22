@@ -2,7 +2,9 @@
 
 **`Backend Developer`** **`Data Analytics`** 
 
-Systems Analysis and Development student at Unifavip Wyden, graduating July 2026, based in Porto with hands-on experience in data analysis, business intelligence, and backend development. With strong analytical thinking and a results-oriented approach.
+Systems Analysis and Development student at Unifavip Wyden, graduating July 2026, based in Portugal with hands-on experience in data analysis, business intelligence, and backend development. With strong analytical thinking and a results-oriented approach.
+
+Currently building my portfolio with hands-on projects in Python, FastAPI, SQL, and Power BI. This repository showcases my work in REST API development, business intelligence dashboards, and data analysis — demonstrating my commitment to clean code, testing, and continuous improvement.
 
 ### Skills and Technologies
 
@@ -12,7 +14,7 @@ Systems Analysis and Development student at Unifavip Wyden, graduating July 2026
     title="Python" 
     width="30px" 
     style="padding-right: 20px;" 
-    src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" 
+    src="https://cdn.iconscout.com/icon/free/png-512/python-3521655-2945099.png"
 />
 <img 
     align="left" 
@@ -20,47 +22,7 @@ Systems Analysis and Development student at Unifavip Wyden, graduating July 2026
     title="FastAPI"
     width="30px" 
     style="padding-right: 20px;" 
-    src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" 
-/>
-<img 
-    align="left" 
-    alt="SQLAlchemy" 
-    title="SQLAlchemy"
-    width="30px" 
-    style="padding-right: 20px;" 
-    src="https://img.shields.io/badge/-SQLAlchemy-333333?style=flat&logo=sqlalchemy&logoColor=white" 
-/>
-<img 
-    align="left" 
-    alt="SQLite"
-    title="SQLite" 
-    width="30px" 
-    style="padding-right: 20px;" 
-    src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" 
-/>
-<img 
-    align="left" 
-    alt="REST APIs"
-    title="REST APIs" 
-    width="30px" 
-    style="padding-right: 20px;" 
-    src="https://img.shields.io/badge/-REST%20APIs-FF6B6B?style=flat" 
-/>
-<img 
-    align="left" 
-    alt="JWT" 
-    title="JWT"
-    width="30px" 
-    style="padding-right: 20px;" 
-    src="https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white" 
-/>
-<img 
-    align="left" 
-    alt="Power BI" 
-    title="Power BI"
-    width="30px" 
-    style="padding-right: 20px;" 
-    src="https://img.shields.io/badge/-Power%20BI-F2CC8F?style=flat&logo=power-bi&logoColor=black" 
+    src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" 
 />
 <img 
     align="left" 
@@ -68,24 +30,32 @@ Systems Analysis and Development student at Unifavip Wyden, graduating July 2026
     title="SQL"
     width="30px" 
     style="padding-right: 20px;" 
-    src="https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=mysql&logoColor=white" 
-/>
-<img 
-    align="left" 
-    alt="BigQuery" 
-    title="BigQuery"
-    width="30px" 
-    style="padding-right: 20px;" 
-    src="https://img.shields.io/badge/-BigQuery-669DF6?style=flat&logo=google-cloud&logoColor=white" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
 />
 <img 
     align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
-    style="padding-right: 20px;" 
-    src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
-
+<img 
+    align="left" 
+    alt="Pandas" 
+    title="Pandas"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"
+/>
+<img 
+    align="left" 
+    alt="Numpy" 
+    title="Numpy"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"
+/>
+               
 <br/>
 <br/>
